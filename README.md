@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Ideas
+
+Text editor
+IDE
+Image viewer
+Office suite (something like Microsoft Office or Libreoffice)
+Programming language (write an interpreter or compiler)
+Web browser
+Database (relational or non-relational)
+Web server
+Version control system
