@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  <br>
 
 <!--
 **tannerwatmough/tannerwatmough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 Ideas
 
-Text editor
-IDE
-Image viewer
-Office suite (something like Microsoft Office or Libreoffice)
-Programming language (write an interpreter or compiler)
-Web browser
-Database (relational or non-relational)
-Web server
-Version control system
+Text editor <br>
+IDE <br>
+Image viewer <br>
+Office suite (something like Microsoft Office or Libreoffice) <br>
+Programming language (write an interpreter or compiler) <br>
+Web browser <br>
+Database (relational or non-relational) <br>
+Web server <br>
+Version control system <br>
