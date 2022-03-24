@@ -15,14 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ideas
-
-Text editor <br>
-IDE <br>
-Image viewer <br>
-Office suite (something like Microsoft Office or Libreoffice) <br>
-Programming language (write an interpreter or compiler) <br>
-Web browser <br>
-Database (relational or non-relational) <br>
-Web server <br>
-Version control system <br>
+Hi, my name is Tanner! I'm a current Computer Science student in University, Registered Nurse, and experienced municipal employee. I've always been interested in creation and one of the best ways I've discovered to do that is through programming! Most of my current projects are focused on Web Development but I'm looking to branch off into creating various other applications such as my own Operating System and Command Line. A little much to bite off for a beginner, so it'll be a bit of a journey to get there. Thanks for checking out my page!
